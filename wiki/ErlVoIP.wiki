@@ -1,0 +1,9 @@
+#labels featured
+#summary ErlVoIP - Voice Over IP in Erlang
+
+= Introduction =
+
+[ErlVoIP] is a voice over IP server written in Erlang. [ErlVoip] will use SIP and RTP as the promary protocols to create connections between the PSTN and SIP clients.
+
+[ErlVoIP] will also have a vocie mail and call processing server. This will allow calls to be redirected based on key pad information from the connected telephone.
+
