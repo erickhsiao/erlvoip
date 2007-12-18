@@ -37,4 +37,17 @@ Some other general feeatures that will be added eventually are:
  * Confernce calling
 
 Many more features will be added as the project matures, but this covers the main features that the original design team feels are high priorites to create. These features will be configurable and created in a modular fashion so that they can be extended to overridden without needing to recompile [ErlVoIP].
+
+== Erlang Internet Framework Integration ==
+
+Since [ErlVoIP] is part of the [http://erlsoft.org/about/ Erlang Internet Framework], it will be abel to easily use the other applicaiton in the [http://erlsoft.org/about/ Erlang Internet Framework] to create more features. Some ideas on those are:
+
+ * Use [http://erlsoft.org/modules/erlmail/ ErlMail] to email voice messages
+ * Use [http://erlsoft.org/modules/erlweb/ ErlWeb] to create a web based configration application
+ * use [http://erlsoft.org/modules/erlweb/ ErlWeb] to create a way to access vocie mail messages
+
+
+
+
+
  
